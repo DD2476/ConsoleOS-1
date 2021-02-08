@@ -1,0 +1,11 @@
+C:\Users\Gabi\source\repos\ConsoleOS1\ConsoleOS1\bin\Debug\ConsoleOS1.exe.config
+C:\Users\Gabi\source\repos\ConsoleOS1\ConsoleOS1\bin\Debug\ConsoleOS1.exe
+C:\Users\Gabi\source\repos\ConsoleOS1\ConsoleOS1\bin\Debug\ConsoleOS1.pdb
+C:\Users\Gabi\source\repos\ConsoleOS1\ConsoleOS1\bin\Debug\ConsoleOS1.xml
+C:\Users\Gabi\source\repos\ConsoleOS1\ConsoleOS1\obj\Debug\ConsoleOS1.vbprojAssemblyReference.cache
+C:\Users\Gabi\source\repos\ConsoleOS1\ConsoleOS1\obj\Debug\ConsoleOS1.Resources.resources
+C:\Users\Gabi\source\repos\ConsoleOS1\ConsoleOS1\obj\Debug\ConsoleOS1.vbproj.GenerateResource.cache
+C:\Users\Gabi\source\repos\ConsoleOS1\ConsoleOS1\obj\Debug\ConsoleOS1.vbproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\ConsoleOS1\ConsoleOS1\obj\Debug\ConsoleOS1.exe
+C:\Users\Gabi\source\repos\ConsoleOS1\ConsoleOS1\obj\Debug\ConsoleOS1.xml
+C:\Users\Gabi\source\repos\ConsoleOS1\ConsoleOS1\obj\Debug\ConsoleOS1.pdb

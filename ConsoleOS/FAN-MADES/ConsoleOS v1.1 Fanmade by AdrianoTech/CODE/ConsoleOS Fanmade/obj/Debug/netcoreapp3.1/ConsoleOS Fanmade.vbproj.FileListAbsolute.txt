@@ -1,0 +1,13 @@
+C:\Users\AdrianoTech\source\repos\ConsoleOS Fanmade\bin\Debug\netcoreapp3.1\ConsoleOS Fanmade.exe
+C:\Users\AdrianoTech\source\repos\ConsoleOS Fanmade\bin\Debug\netcoreapp3.1\ConsoleOS Fanmade.deps.json
+C:\Users\AdrianoTech\source\repos\ConsoleOS Fanmade\bin\Debug\netcoreapp3.1\ConsoleOS Fanmade.runtimeconfig.json
+C:\Users\AdrianoTech\source\repos\ConsoleOS Fanmade\bin\Debug\netcoreapp3.1\ConsoleOS Fanmade.runtimeconfig.dev.json
+C:\Users\AdrianoTech\source\repos\ConsoleOS Fanmade\bin\Debug\netcoreapp3.1\ConsoleOS Fanmade.dll
+C:\Users\AdrianoTech\source\repos\ConsoleOS Fanmade\bin\Debug\netcoreapp3.1\ConsoleOS Fanmade.pdb
+C:\Users\AdrianoTech\source\repos\ConsoleOS Fanmade\obj\Debug\netcoreapp3.1\ConsoleOS Fanmade.AssemblyInfoInputs.cache
+C:\Users\AdrianoTech\source\repos\ConsoleOS Fanmade\obj\Debug\netcoreapp3.1\ConsoleOS Fanmade.AssemblyInfo.vb
+C:\Users\AdrianoTech\source\repos\ConsoleOS Fanmade\obj\Debug\netcoreapp3.1\ConsoleOS Fanmade.vbproj.CoreCompileInputs.cache
+C:\Users\AdrianoTech\source\repos\ConsoleOS Fanmade\obj\Debug\netcoreapp3.1\ConsoleOS Fanmade.dll
+C:\Users\AdrianoTech\source\repos\ConsoleOS Fanmade\obj\Debug\netcoreapp3.1\ConsoleOS Fanmade.pdb
+C:\Users\AdrianoTech\source\repos\ConsoleOS Fanmade\obj\Debug\netcoreapp3.1\ConsoleOS Fanmade.genruntimeconfig.cache
+C:\Users\AdrianoTech\source\repos\ConsoleOS Fanmade\obj\Debug\netcoreapp3.1\ConsoleOS Fanmade.vbprojAssemblyReference.cache
